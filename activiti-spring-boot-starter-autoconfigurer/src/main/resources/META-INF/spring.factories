@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.qing.starter.DataSourceProcessEngineAutoConfiguration,\
+    com.qing.starter.RestApiAutoConfiguration,\
+    com.qing.starter.JpaProcessEngineAutoConfiguration
